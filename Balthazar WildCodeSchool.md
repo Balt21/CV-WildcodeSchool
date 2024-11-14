@@ -1,5 +1,5 @@
 ![Logo WildCodeSchool](https://github.com/user-attachments/assets/6ba93a06-3f54-4489-9bdd-a91c60efe4da)
-)
+
 
 # Balthazar WildCodeSchool
 ---
