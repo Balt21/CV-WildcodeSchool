@@ -21,8 +21,8 @@ Je bénéficie d'une expérience professionnelle du à mes différentes expérie
 ## Expérience professionnelle
 
 ##### [Hacker etique]
-**[Wild Code school]** – [Paris]  
-[14/11/2024]
+##### **[Wild Code school]** – [Paris]  
+##### [14/11/2024]
 ---
 
 ## Hobbies
